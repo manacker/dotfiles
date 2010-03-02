@@ -1,0 +1,11 @@
+alias h="history"
+alias l="ls -l"
+alias ..="cd .."
+
+
+alias g="git status"
+alias gc="git commit"
+
+function gg() {
+	git commit -v -a -m "$*"
+}
