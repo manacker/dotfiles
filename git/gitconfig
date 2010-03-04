@@ -1,0 +1,5 @@
+[user]
+	name = Marcel Anacker
+	email = marcel@playata.com
+[core]
+	excludesfile = ~/bin/dotfiles/git/gitignore
