@@ -1,3 +1,10 @@
 .buildpath
 .project
 .settings/
+library/Zend/
+library/Playata/
+public/dev/js/closure
+public/dev/js/plibrary
+public/.htaccess
+application/configs/local_config.php
+*~
