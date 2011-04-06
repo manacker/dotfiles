@@ -3,3 +3,5 @@
 	email = marcel@playata.com
 [core]
 	excludesfile = ~/bin/dotfiles/git/gitignore
+[color]
+	ui = always
