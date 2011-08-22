@@ -3,8 +3,9 @@ alias l="ls -l"
 alias ..="cd .."
 
 
-alias g="git status"
+alias gs="git status"
 alias gc="git commit"
+alias gca="git commit -a"
 
 function gg() {
 	git commit -v -a -m "$*"

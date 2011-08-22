@@ -5,4 +5,8 @@
 public/.htaccess
 application/config/local_config.php
 .idea/
+library/Zend/
+library/Playata/
+public/dev/js/closure
+public/dev/js/plibrary
 *~
