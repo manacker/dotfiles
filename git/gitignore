@@ -1,3 +1,8 @@
 .buildpath
+.DS_Store
 .project
 .settings/
+public/.htaccess
+application/config/local_config.php
+.idea/
+*~

@@ -1,3 +1,3 @@
 export EDITOR="mate -w"
-export PATH=$PATH:/opt/local/bin:~/bin
-export CDPATH=$HOME:/usr/local
+export PATH=$PATH:/opt/local/bin:~/bin:/usr/local/zend/mysql/bin
+export CDPATH=$HOME:$HOME/code:/usr/local
